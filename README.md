@@ -41,8 +41,8 @@ The application will allows you to be in the loop about everything happening in 
  * Css3
  
 ## Contact Details
-* Email barbara.mootian@student.moringaschool.com 
-* LinkedIn at https://www.linkedin.com/in/barbra-mootian-03132b1a8/
+* Email:*barbara.mootian@student.moringaschool.com 
+* LinkedIn:*at https://www.linkedin.com/in/barbra-mootian-03132b1a8/
 
 ## Licence Information
 Copyright (c) [2022] *[Barbra Reson]
